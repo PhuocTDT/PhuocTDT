@@ -1,6 +1,9 @@
 # PhuocTDT
 
 <h1 align="center">👋 Hey there, I'm Phuoc</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
+</p>
 <h3 align="center">🛡️ SOC Analyst | Threat Hunter | Incident Responder 🧠</h3>
 <h4 align="center">🎓 Cyber Security student @ FPT University</h4>
 
