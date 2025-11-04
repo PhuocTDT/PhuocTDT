@@ -50,7 +50,7 @@
 
 ---
 
-### 🧩 Cyber Defense Interests
+# 🧩 Cyber Defense Interests
 <p align="center">
   <img src="https://img.shields.io/badge/Threat%20Hunting-002244?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/SOC%20Monitoring-003366?style=for-the-badge&logo=datadog&logoColor=white" />
@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PhuocTDT&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PhuocTDT&theme=tokyonight&hide_border=true&v=2" />
@@ -69,28 +69,28 @@
 ---
 
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PhuocTDT&theme=onedark&no-frame=true&row=1" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+# 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocTDT&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 💬 Quote of the Day
+# 💬 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🏆 Misc  
+# 🏆 Misc  
 
 <a href="https://app.daily.dev/phuoctdt"><img src="https://api.daily.dev/devcards/v2/NMVLjrfpDrdt7FJ71NwX8.png?r=zmu" width="356" alt="PhuocTDT's Dev Card"/></a>
 <br/>
