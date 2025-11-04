@@ -32,7 +32,7 @@
 
 ---
 
-### 🧠 My Focus
+# :brain: My Focus
 | Area | Description |
 |------|--------------|
 | 🛰️ SOC Analysis | Monitoring and triaging security alerts |
@@ -43,9 +43,9 @@
 
 ---
 
-### ⚙️ Languages and Tools
+# ⚙️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,azure,github,vscode,wireshark,git" />
+  <img src="https://skillicons.dev/icons?i=python,linux,windows,cloud,github,vscode,wireshark,splunk,elk stack" />
 </p>
 
 ---
