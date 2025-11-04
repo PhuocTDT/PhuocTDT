@@ -73,4 +73,21 @@
 </p>
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%8C%9FThanks+for+your+visting%F0%9F%8C%9F;PhuocTDT)](https://git.io/typing-svg)
+
+## 🏆 Misc  
+
+<a href="https://app.daily.dev/phuoctdt"><img src="https://api.daily.dev/devcards/v2/NMVLjrfpDrdt7FJ71NwX8.png?r=zmu" width="356" alt="PhuocTDT's Dev Card"/></a>
+
+<br/>
+
+<a href="https://tryhackme.com/p/tphuoc" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tphuoc.png" alt="PhuocTDT's Image Badge" />
+</a>
+
+<br/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7DE&center=true&multiline=true&width=435&lines=%F0%9F%8C%9FThanks+for+your+visting%F0%9F%8C%9F;PhuocTDT" alt="Typing SVG" /></a>
+</p>
+
+---
