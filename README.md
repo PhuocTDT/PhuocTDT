@@ -99,8 +99,8 @@
 </a>
 <br/>
 
-<p align="center">
+<div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7DE&center=true&multiline=true&width=435&lines=%F0%9F%8C%9FThanks+for+your+visit%F0%9F%8C%9F;PhuocTDT's+profile" alt="Typing SVG" /></a>
-</p>
+</div>
 
 ---
