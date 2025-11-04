@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" width="600"/>
 </div>
 
 # :rocket: I am PhuocTDT - a SOC Analyst <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> from Vietnam 👋
