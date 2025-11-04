@@ -1,5 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" width="200" />
+</div>
+<div id="badges" align="center">
+  <a href="https://www.facebook.com/phuoctdt.260823">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nquangit/">
+    <img src="https://img.shields.io/badge/Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    <a href="https://x.com/Tdtp2005">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">🛡️ SOC Analyst | Threat Hunter | Incident Responder 🧠</h3>
 <h4 align="center">🎓 Cyber Security student @ FPT University</h4>
