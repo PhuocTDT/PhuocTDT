@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br/>
+<br/><br/>
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=65F7DE&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92;%F0%9F%9B%A1%EF%B8%8F+SOC+Analysts%F0%9F%9B%A1%EF%B8%8F;%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FThreat+Hunting%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%A7%A0Incident+Response%F0%9F%A7%A0;%F0%9F%8E%93FPT+University%F0%9F%8E%93" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=65F7DE&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92;%F0%9F%9B%A1%EF%B8%8F+SOC+Analysts%F0%9F%9B%A1%EF%B8%8F;%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FThreat+Hunting%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%A7%A0Incident+Response%F0%9F%A7%A0;%F0%9F%8E%93FPT+University%F0%9F%8E%93" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
