@@ -1,6 +1,3 @@
-# PhuocTDT
-
-<h1 align="center">👋 Hey there, I'm Phuoc</h1>
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
 </p>
@@ -10,6 +7,7 @@
 ---
 
 ### 🧩 About Me
+- 🎓 Cyber Security student @FPT_University</h4>
 - 🧭 Passionate about **Cyber Defense**, **Threat Hunting**, and **Incident Response**.  
 - 💡 Currently studying **Information Assurance** at **FPT University**.  
 - 🔍 Interested in **SOC operations**, **Blue Team tooling**, and **adversary detection techniques**.  
