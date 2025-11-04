@@ -20,9 +20,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
----
 
-### 🧩 About Me
+# :rocket: I am PhuocTDT - a SOC Analyst <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> from Vietnam 👋
 - 🎓 Cyber Security student @FPT_University</h4>
 - 🧭 Passionate about **Cyber Defense**, **Threat Hunting**, and **Incident Response**.  
 - 💡 Currently studying **Information Assurance** at **FPT University**.  
