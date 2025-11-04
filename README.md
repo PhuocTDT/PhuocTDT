@@ -73,8 +73,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <b>“Defense is not about walls — it’s about awareness.”</b><br>
-  ✨ Thanks for visiting my profile ✨
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%8C%9FThanks+for+your+visting%F0%9F%8C%9F;PhuocTDT)](https://git.io/typing-svg)
