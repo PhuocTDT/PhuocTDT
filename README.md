@@ -1,1 +1,79 @@
 # PhuocTDT
+
+<h1 align="center">👋 Hey there, I'm Phuoc</h1>
+<h3 align="center">🛡️ SOC Analyst | Threat Hunter | Incident Responder 🧠</h3>
+<h4 align="center">🎓 Cyber Security student @ FPT University</h4>
+
+---
+
+### 🧩 About Me
+- 🧭 Passionate about **Cyber Defense**, **Threat Hunting**, and **Incident Response**.  
+- 💡 Currently studying **Information Assurance** at **FPT University**.  
+- 🔍 Interested in **SOC operations**, **Blue Team tooling**, and **adversary detection techniques**.  
+- 🧰 Building hands-on skills in **SIEM**, **Log Analysis**, and **Digital Forensics**.  
+- 💬 Ask me about **SOC workflows**, **MITRE ATT&CK**, or **Defensive automation**.  
+- 📫 Reach me at: **your_email@example.com**
+
+---
+
+### 🧠 My Focus
+| Area | Description |
+|------|--------------|
+| 🛰️ SOC Analysis | Monitoring and triaging security alerts |
+| 🎯 Threat Hunting | Proactive searching for anomalies & IOCs |
+| 🧩 DFIR | Digital Forensics & Incident Response practice |
+| ⚙️ Automation | Scripting & Playbook creation for Blue Team |
+| 📚 Research | Studying adversary TTPs and cyber threat intel |
+
+---
+
+### ⚙️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,azure,github,vscode,wireshark,git" />
+</p>
+
+---
+
+### 🧩 Cyber Defense Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Threat%20Hunting-002244?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Monitoring-003366?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Incident%20Response-004488?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0055aa?style=for-the-badge&logo=files&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhuocTDT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhuocTDT&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PhuocTDT&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhuocTDT&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Defense is not about walls — it’s about awareness.”</b><br>
+  ✨ Thanks for visiting my profile ✨
+</p>
