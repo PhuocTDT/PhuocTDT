@@ -17,7 +17,7 @@
 <h1 align="center">
 
   
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=65F7DE&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92;%F0%9F%9B%A1%EF%B8%8F+SOC+Analysts%F0%9F%9B%A1%EF%B8%8F;%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FThreat+Hunting%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%A7%A0Incident+Response%F0%9F%A7%A0;%F0%9F%8E%93Studying+at+FPT+University%F0%9F%8E%93)](https://git.io/typing-svg)
 </h1>
 
 <h2 align="center">🛡️ SOC Analyst | Threat Hunter | Incident Responder 🧠</h2>
