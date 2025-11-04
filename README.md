@@ -77,13 +77,10 @@
 ## 🏆 Misc  
 
 <a href="https://app.daily.dev/phuoctdt"><img src="https://api.daily.dev/devcards/v2/NMVLjrfpDrdt7FJ71NwX8.png?r=zmu" width="356" alt="PhuocTDT's Dev Card"/></a>
-
 <br/>
-
 <a href="https://tryhackme.com/p/tphuoc" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/tphuoc.png" alt="PhuocTDT's Image Badge" />
 </a>
-
 <br/>
 
 <p align="center">
