@@ -15,9 +15,11 @@
 </div>
 
 <h1 align="center">
+
   
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=%F0%9F%94%92Welcome+to+my+profile%F0%9F%94%92" alt="Typing SVG" /></a>
 </h1>
+
 <h2 align="center">🛡️ SOC Analyst | Threat Hunter | Incident Responder 🧠</h2>
 <h3 align="center">🎓 Cyber Security student @ FPT University</h3>
 
