@@ -45,7 +45,7 @@
 
 # ⚙️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,windows,cloud,github,vscode,wireshark,splunk,elk stack" />
+  <img src="https://skillicons.dev/icons?i=python,linux,windows,docker,mysql,php,ubuntu" />
 </p>
 
 ---
