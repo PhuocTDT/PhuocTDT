@@ -12,7 +12,7 @@
 - 🔍 Interested in **SOC operations**, **Blue Team tooling**, and **adversary detection techniques**.  
 - 🧰 Building hands-on skills in **SIEM**, **Log Analysis**, and **Digital Forensics**.  
 - 💬 Ask me about **SOC workflows**, **MITRE ATT&CK**, or **Defensive automation**.  
-- 📫 Reach me at: **your_email@example.com**
+- 📫 Reach me at: **tdtp2005@gmail.com**
 
 ---
 
